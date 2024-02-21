@@ -1,0 +1,18 @@
+img {
+    height: 225px;
+    width: 225;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card,
+.click{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
